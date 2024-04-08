@@ -1,1 +1,5 @@
 # Dashboards-on-Cognos
+
+##Editing the file
+
+Its a markdown file in this repository.
